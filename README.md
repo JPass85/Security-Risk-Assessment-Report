@@ -9,7 +9,7 @@
 
    - Password policies can be refined to incorporate rules concerning passwword length, acceptable characters, and disclaimers discouraging password sharing. Additionally, they can encompass regulations regarding unsuccessful attempts.
   
- 3. Perform firewall maintaince regularly
+ 3. Perform firewall maintenance regularly
 
     - Maintaining the firewall involves regular checks and updates to security configurations to stay ahead of potential threats.
    
